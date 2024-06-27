@@ -71,7 +71,7 @@
 
 <br>
 <a href="https://github.com/MUKILAN-2003">
-  <img align='center' alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MUKILAN-2003&theme=github-dark" />
+  <img align='center' alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SUGAN-developer&bg_color=000000&color=f2f2f2&line=b238aa&point=4f4f4f&area=true&hide_border=true" />
 </a>
 <br>
 
