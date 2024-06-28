@@ -62,7 +62,7 @@
 ### 📈 GitHub Activity:
 
 <br>
-<a href="https://github.com/MUKILAN-2003">
+<a href="https://github.com/SUGAN-developer">
   <img align='center' alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SUGAN-developer&bg_color=000000&color=f2f2f2&line=b238aa&point=4f4f4f&area=true&hide_border=true" />
 </a>
 <br>
