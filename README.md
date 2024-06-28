@@ -35,11 +35,11 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/MUKILAN-2003">	
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=MUKILAN-2003&show_icons=true&theme=github_dark"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN-2003&theme=github_dark" />
-    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN-2003&layout=compact&theme=github_dark' />
-    <img align='center' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUKILAN-2003&theme=github_dark' />
+  <a href="https://github.com/SUGAN-dveloper">	
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=SUGAN-developer&show_icons=true&theme=github_dark"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SUGAN-developer&theme=github_dark" />
+    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAN-developer&layout=compact&theme=github_dark' />
+    <img align='center' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUGAN-developer&theme=github_dark' />
   </a>
 </p>
 
@@ -50,20 +50,12 @@
 <br>
 <p align="center">
  <a href="https://github.com/MUKILAN-2003">
-  <img align='center' alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=MUKILAN-2003&theme=monokai&no-frame=false&no-bg=false&margin-w=4" />
+  <img align='center' alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=SUGAN-developer&theme=monokai&no-frame=false&no-bg=false&margin-w=4" />
  </a> 
 </p>
 <hr>
 
-### 👀 Visit Count:
 
-<br>
-<p align="center">
- <a href="https://github.com/MUKILAN-2003">
-    <img src="https://visitcount.itsvg.in/api?id=MUKILAN-2003&label=Profile%20Views&color=12&icon=2&pretty=true" />
- </a> 
-</p>
-<hr>
 
 <br>
 
